@@ -134,6 +134,9 @@ app.listen(PORT, <span class="hljs-string">'37.27.11.209'</span>, () =&gt; {
 </code></pre>
 <p class="has-line-data" data-line-start="149" data-line-end="150">You should get a message telling you the node server is running on that port.</p>
 <h2 class="code-line" data-line-start=151 data-line-end=152 ><a id="Step_6_Test_your_Node_Server_151"></a>Step 6: Test your Node Server</h2>
+<p class="has-line-data" data-line-start="153" data-line-end="156">Run NPM</p>
+<pre><code class="has-line-data" data-line-start="146" data-line-end="148">npm start
+</code></pre>
 <p class="has-line-data" data-line-start="152" data-line-end="153">You may test your node server by visiting the designated number with PORT</p>
 <pre><code class="has-line-data" data-line-start="154" data-line-end="156" class="language-sh"><span class="hljs-number">127.0</span>.<span class="hljs-number">0.1</span>:<span class="hljs-number">8000</span>
 </code></pre>
